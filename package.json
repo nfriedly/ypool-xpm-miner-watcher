@@ -1,0 +1,15 @@
+{
+  "name": "ypool-xpm-miner-watcher",
+  "version": "1.0.0",
+  "description": "Script that watches JSPrimeMiner and restarts it any time it dies",
+  "main": "watch-jhPrimeminer.js",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Friedly - http://nfriedly.com/",
+  "license": "BSD"
+}
