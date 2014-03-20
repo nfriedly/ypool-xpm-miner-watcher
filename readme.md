@@ -1,4 +1,4 @@
-ypool.net XPM Miner watcher
+ypool.net XPM Miner Watcher
 =======================
 
 A node.js script to watch ypool.net's PrimeCoin jhPrimeminer and restart it every time it crashes. (This typically only happens when ypool.net is having connectivity issues.)
